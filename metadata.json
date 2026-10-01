@@ -1,0 +1,6 @@
+{
+  "name": "CampusNav - Guide Salles & Amphithéâtres",
+  "description": "Application Android Jetpack Compose et simulateur interactif pour trouver facilement les salles, amphithéâtres et laboratoires sur le campus universitaire.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
